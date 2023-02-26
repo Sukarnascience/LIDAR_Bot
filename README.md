@@ -27,8 +27,8 @@
 
 ## Setup Guilde :
 
-
 ## Reference :
+* [ChatGPT](#) Helped a lot for understanding the concept. 
 * [Youtube](https://www.youtube.com/watch?v=xSrjtJ2AZqw)
 * [Github Repo](https://github.com/NikodemBartnik/LIDAR-Robot)
 * [YDLidar Repo](https://github.com/YDLIDAR/ydlidar_arduino)
