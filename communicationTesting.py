@@ -1,7 +1,7 @@
 import socket
 
 # Set the IP address and port number of the ESP32
-ip = '192.168.1.100'
+ip = '192.168.43.100'
 port = 12345
 
 # Create a socket object

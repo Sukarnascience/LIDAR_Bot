@@ -26,6 +26,19 @@
 | 3 | Arduino IDE | [LINK]() |
 
 ## Setup Guilde :
+### 1. Setup ESP32 on your Arduino IDE
+> **NOTE:** if you are from india you may face issue during installing ESP32 because ```raw.githubusercontent.com``` in banned by ISP of India. \
+So, use **VPN**
+1. In your Arduino IDE, go to **File > Preferences**
+2. Enter the following into the “Additional Board Manager URLs” field:
+```https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json``` Then, click the “OK” button
+3. Open the Boards Manager. Go to **Tools > Board > Boards Manager…**
+4. Search for **ESP32** and press install button for the **“ESP32 by Espressif Systems“**
+5. That’s it. It should be installed after a few seconds...
+
+### 2. Install few requied libraries
+1. Python Libraries:
+    * ```sudo python3 -m pip install requirements.txt```
 
 ## Reference :
 * [ChatGPT](#) Helped a lot for understanding the concept. 
